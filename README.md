@@ -1,7 +1,7 @@
 ## 📚 Ebook: Mestre do café
 
 ### 🔬 Visão Geral
-Este ebook foi meticulosamente desenvolvido, por mim um amante de tecnologia e estudante de ADS, sob a supervisão de Lara Biancatto, uma barista profissional com anos de experiência no setor. Optei por integrar inteligência artificial neste material para criar um padrão de loja com a intenção de elevar a qualidade do produto unificando conhecimentos da casa junto ao conhecimento técnico.
+Este ebook foi meticulosamente desenvolvido por mim, um amante de tecnologia e estudante de ADS, sob a supervisão de Lara Biancatto, uma barista profissional com anos de experiência no setor. Optei por integrar inteligência artificial neste material para criar um padrão de loja com a intenção de elevar a qualidade do produto, unificando conhecimentos da casa junto ao conhecimento técnico.
 
 
 ### 💻 Tecnologias Utilizadas:
